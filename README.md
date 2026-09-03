@@ -1,2 +1,2 @@
 # racecar-poepart1
-docs: add ERD entity summary and cardinality note
+add data dictionary for all six tables
