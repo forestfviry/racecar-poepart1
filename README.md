@@ -1,2 +1,2 @@
 # racecar-poepart1
-add data dictionary for all six tables
+add normalization notes justifying 1NF–3NF
