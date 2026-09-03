@@ -1,2 +1,2 @@
 # racecar-poepart1
-add normalization notes justifying 1NF–3NF
+schema: add CHECK constraints (DistanceKm > 0, EntryFee >= 0, Position > 0)
