@@ -1,2 +1,2 @@
 # racecar-poepart1
-add extra seed data (more events, categories, participants)
+add verification queries file (queries.sql) testing the joins
