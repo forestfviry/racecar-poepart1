@@ -1,2 +1,2 @@
 # racecar-poepart1
-add CHECK constraint restricting Enrolments/Results Status values
+add non-clustered indexes on FK columns for query performance
