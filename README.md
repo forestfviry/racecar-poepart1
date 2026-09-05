@@ -26,3 +26,5 @@ JOIN dbo.Users u ON u.UserID = en.UserID
 JOIN dbo.Categories c ON c.CategoryID = en.CategoryID
 JOIN dbo.Events e ON e.EventID = c.EventID
 LEFT JOIN dbo.Results r ON r.EnrolmentID = en.EnrolmentID;
+YOUTUBE
+https://youtu.be/dCiUI-qNyXs
